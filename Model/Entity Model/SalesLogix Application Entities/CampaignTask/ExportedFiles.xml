@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\CampaignTask\CampaignTask.CAMPAIGNTASK.entity.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\CampaignTask\OnBeforeInsert.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\CampaignTask\OnBeforeUpdate.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\CampaignTask\OnCreate.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+</exportedFiles>

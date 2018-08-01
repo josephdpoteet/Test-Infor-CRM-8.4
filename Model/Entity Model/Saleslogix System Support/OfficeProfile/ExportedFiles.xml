@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\Saleslogix System Support\OfficeProfile\City.filter.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\Saleslogix System Support\OfficeProfile\Company.filter.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\Saleslogix System Support\OfficeProfile\Country.filter.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\Saleslogix System Support\OfficeProfile\Division.filter.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\Saleslogix System Support\OfficeProfile\GetLicenses.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\Saleslogix System Support\OfficeProfile\GetLocaleConfig.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\Saleslogix System Support\OfficeProfile\GetPortalHelpUrl.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\Saleslogix System Support\OfficeProfile\OfficeProfile.BRANCHOPTIONS.entity.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\Saleslogix System Support\OfficeProfile\OnAfterUpdate.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\Saleslogix System Support\OfficeProfile\OnBeforeDelete.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\Saleslogix System Support\OfficeProfile\Sage.SnippetLibrary.CSharp.@.4da03ca3-4a08-41dd-b318-c1d2b428c34a.codesnippet.cs" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\Saleslogix System Support\OfficeProfile\Sage.SnippetLibrary.CSharp.@.9e65dfaf-1c12-47aa-9f83-7c4689bf6c1c.codesnippet.cs" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\Saleslogix System Support\OfficeProfile\Sage.SnippetLibrary.CSharp.@.ca905be9-013e-4e89-a37a-96c94b04a066.codesnippet.cs" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\Saleslogix System Support\OfficeProfile\Sage.SnippetLibrary.CSharp.@.eb37355a-bbc5-4a0e-8f4e-9621ebe9550e.codesnippet.cs" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\Saleslogix System Support\OfficeProfile\State.filter.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\Saleslogix System Support\OfficeProfile\UpdateExchangeRates.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\Saleslogix System Support\OfficeProfile\UpdateLocaleConfig.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\Saleslogix System Support\OfficeProfile\UpdatePortalHelpUrl.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\Saleslogix System Support\OfficeProfile\QuickForms\" />
+</exportedFiles>

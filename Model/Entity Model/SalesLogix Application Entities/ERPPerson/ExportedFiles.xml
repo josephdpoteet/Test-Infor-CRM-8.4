@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPPerson\CountryCode.filter.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPPerson\ErpAcctEntity.filter.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPPerson\ERPPerson.ERPPERSON.entity.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPPerson\ErpStatus.filter.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPPerson\OnBeforeDelete.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPPerson\OnBeforeInsert.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPPerson\OnCreate.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPPerson\Role.filter.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPPerson\QuickForms\" />
+</exportedFiles>

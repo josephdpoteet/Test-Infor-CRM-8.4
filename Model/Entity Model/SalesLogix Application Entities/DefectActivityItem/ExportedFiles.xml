@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\DefectActivityItem\AddDefectActivityNotesTimeStamp.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\DefectActivityItem\DefectActivityItem.DEFECTACTIVITYITEM.entity.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\DefectActivityItem\DoDefectActivityCalculations.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\DefectActivityItem\OnCreate.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\DefectActivityItem\QuickForms\" />
+</exportedFiles>

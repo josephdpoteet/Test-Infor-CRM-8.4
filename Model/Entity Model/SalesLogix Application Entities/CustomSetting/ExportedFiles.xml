@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\CustomSetting\Category.filter.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\CustomSetting\CustomSetting.CUSTOMSETTINGS.entity.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\CustomSetting\OnAfterDelete.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\CustomSetting\OnAfterInsert.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\CustomSetting\OnAfterUpdate.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\CustomSetting\OnBeforeDelete.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\CustomSetting\OnBeforeInsert.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\CustomSetting\OnBeforeUpdate.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\CustomSetting\OnCreate.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\CustomSetting\Sage.SnippetLibrary.CSharp.@.a35da581-1ec4-40c2-9a6e-4856bdd04fe3.codesnippet.cs" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\CustomSetting\QuickForms\" />
+</exportedFiles>

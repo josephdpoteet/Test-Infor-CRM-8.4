@@ -1,0 +1,9 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\appSettings.config" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\dynamicInterceptors.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\log4net.config" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\ModelTypes.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\tenant.config" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\" />
+</exportedFiles>

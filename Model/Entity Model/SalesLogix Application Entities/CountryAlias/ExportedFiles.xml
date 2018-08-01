@@ -1,0 +1,6 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\CountryAlias\CountryAlias.COUNTRYALIAS.entity.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\CountryAlias\SaveOrphanedCountryAlias.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\CountryAlias\QuickForms\" />
+</exportedFiles>

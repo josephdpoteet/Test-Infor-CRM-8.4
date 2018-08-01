@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ReturnShippedProduct\AssociateExistingAccountProduct.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ReturnShippedProduct\AssociateNewAccountProduct.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ReturnShippedProduct\OnBeforeInsert.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ReturnShippedProduct\OnBeforeUpdate.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ReturnShippedProduct\OnCreate.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ReturnShippedProduct\OnProductShippedChanged.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ReturnShippedProduct\ReturnShippedProduct.RMASHIPPEDPRODUCT.entity.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ReturnShippedProduct\QuickForms\" />
+</exportedFiles>

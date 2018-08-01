@@ -1,0 +1,1 @@
+define("Sage/UI/Controls/nls/en/_DialogHelpIconMixin", { helpTooltip: 'Help' });

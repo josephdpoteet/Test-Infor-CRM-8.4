@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\src\Models\_ModelBase.js" timeStamp="2017-12-06T22:32:08.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\src\Models\_OfflineModelBase.js" timeStamp="2017-12-06T22:32:08.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\src\Models\_SDataModelBase.js" timeStamp="2017-12-06T22:32:08.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\src\Models\Adapter.js" timeStamp="2017-12-06T22:32:08.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\src\Models\Connection.js" timeStamp="2017-12-06T22:32:08.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\src\Models\Manager.js" timeStamp="2017-12-06T22:32:08.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\src\Models\Types.js" timeStamp="2017-12-06T22:32:08.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\src\Models\Briefcase\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\src\Models\RecentlyViewed\" />
+</exportedFiles>

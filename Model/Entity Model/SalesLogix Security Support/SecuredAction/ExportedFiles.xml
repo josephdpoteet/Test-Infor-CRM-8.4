@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Security Support\SecuredAction\AddToRole.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\SecuredAction\NameIsDuplicate.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\SecuredAction\NameIsMissing.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\SecuredAction\OnBeforeInsert.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\SecuredAction\OnBeforeUpdate.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\SecuredAction\Parent.filter.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\SecuredAction\SecuredAction.SECUREDACTION.entity.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\SecuredAction\QuickForms\" />
+</exportedFiles>

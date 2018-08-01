@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\SyncResult\ApplicationCodeFilter.filter.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\SyncResult\CreatedDate.filter.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\SyncResult\DiagnosisCodeFilter.filter.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\SyncResult\EntityTypeFilter.filter.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\SyncResult\EntityValueFilter.filter.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\SyncResult\GetResultInfo.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\SyncResult\HttpStatusFilter.filter.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\SyncResult\ModifiedDate.filter.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\SyncResult\OnBeforeInsert.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\SyncResult\PurgeSyncResult.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\SyncResult\ResourceTypeFilter.filter.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\SyncResult\Sage.SnippetLibrary.CSharp.@.d61701e8-16d5-44c1-9e00-2eb842e91ba3.codesnippet.cs" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\SyncResult\SeverityFilter.filter.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\SyncResult\StartDate.filter.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\SyncResult\SyncFrom.filter.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\SyncResult\SyncResult.SYNCRESULT.entity.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\SyncResult\UpdateSyncResult.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\SyncResult\QuickForms\" />
+</exportedFiles>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\ProximitySearch\nls\DirectionView.js" timeStamp="2017-12-06T22:20:46.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\ProximitySearch\nls\GeocodeModule.js" timeStamp="2017-12-06T22:20:46.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\ProximitySearch\nls\MapModule.js" timeStamp="2017-12-06T22:20:46.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\ProximitySearch\nls\PointEditModule.js" timeStamp="2017-12-06T22:20:46.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\ProximitySearch\nls\RouteModel.js" timeStamp="2017-12-06T22:20:46.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\ProximitySearch\nls\RouteModule.js" timeStamp="2017-12-06T22:20:46.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\ProximitySearch\nls\ToolbarModule.js" timeStamp="2017-12-06T22:20:46.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\ProximitySearch\nls\de\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\ProximitySearch\nls\en\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\ProximitySearch\nls\fr\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\ProximitySearch\nls\it\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\ProximitySearch\nls\ru\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\ProximitySearch\nls\zh-cn\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\ProximitySearch\nls\zh-tw\" />
+</exportedFiles>

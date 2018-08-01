@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPShipment\Account.filter.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPShipment\ActualDeliveryDate.filter.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPShipment\ActualShipDate.filter.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPShipment\Carrier.filter.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPShipment\DatePromised.filter.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPShipment\DeclaredValue.filter.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPShipment\ERPShipment.ERPSHIPMENT.entity.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPShipment\ERPStatus.filter.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPShipment\OnBeforeInsert.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPShipment\OnBeforeUpdate.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPShipment\PartialShipAllowed.filter.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPShipment\SetShipmentShippingAddress.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPShipment\SumTotalAmount.filter.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPShipment\QuickForms\" />
+</exportedFiles>

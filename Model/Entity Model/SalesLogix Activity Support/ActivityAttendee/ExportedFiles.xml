@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\ActivityAttendee\ActivityAttendee.ACTIVITYATTENDEE.entity.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\ActivityAttendee\CopyAttendee.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\ActivityAttendee\CopyAttendees.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\ActivityAttendee\CopyContactToAttendee.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\ActivityAttendee\CopyLeadToAttendee.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\ActivityAttendee\OnBeforeDelete.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\ActivityAttendee\OnBeforeInsert.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\ActivityAttendee\OnBeforeUpdate.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+</exportedFiles>

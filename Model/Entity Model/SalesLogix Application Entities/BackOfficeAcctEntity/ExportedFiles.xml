@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BackOfficeAcctEntity\BackOfficeAcctEntity.BACKOFFICEACCTENTITY.entity.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BackOfficeAcctEntity\OnAfterInsert.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BackOfficeAcctEntity\OnBeforeInsert.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BackOfficeAcctEntity\OnBeforeUpdate.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BackOfficeAcctEntity\QuickForms\" />
+</exportedFiles>

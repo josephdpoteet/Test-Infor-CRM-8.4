@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BackOffice\Active.filter.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BackOffice\BackOffice.BACKOFFICE.entity.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BackOffice\BackOffice.filter.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BackOffice\CopyBackOffice.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BackOffice\EntityName.filter.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BackOffice\GetBackOfficeDetails.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BackOffice\OnAfterDelete.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BackOffice\OnAfterInsert.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BackOffice\OnAfterUpdate.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BackOffice\OnBeforeInsert.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BackOffice\OnBeforeUpdate.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BackOffice\Priority.filter.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BackOffice\PromoteToBackOffice.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BackOffice\RemoveIntegrationAssociation.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BackOffice\RequestActiveBackOffices.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BackOffice\SORPromote.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BackOffice\QuickForms\" />
+</exportedFiles>

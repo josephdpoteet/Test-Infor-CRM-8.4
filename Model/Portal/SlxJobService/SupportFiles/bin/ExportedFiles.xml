@@ -1,0 +1,87 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Common.Logging.Core.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Common.Logging.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Common.Logging.Log4Net1210.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\dtSearchNetApi4.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Enyim.Caching.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\EPPlus.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\ICSharpCode.NRefactory.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Iesi.Collections.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Interop.GroupTranslator.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Interop.SlxLoggingObj2.dll" timeStamp="2016-04-07T21:48:44.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Interop.SLXReporting.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Interop.SLXSystem.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\log4net.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Mail.dll" timeStamp="2016-05-12T20:08:26.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Microsoft.Exchange.WebServices.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Microsoft.Unity.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Newtonsoft.Json.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\NHibernate.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\NVelocity.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Quartz.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\RestSharp.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Rhino.Etl.Core.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.Common.Syndication.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.Platform.Application.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.Platform.Application.XmlSerializers.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.Platform.Caches.Memcached.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.Platform.Configuration.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.Platform.Configuration.XmlSerializers.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.Platform.Design.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.Platform.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.Platform.FileSystem.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.Platform.FileSystem.XmlSerializers.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.Platform.Orm.CodeGen.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.Platform.Orm.CodeGen.XmlSerializers.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.Platform.Projects.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.Platform.Projects.XmlSerializers.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.Platform.VirtualFileSystem.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.Platform.XmlSerializers.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.Activity.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.API.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.BusinessRules.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.Client.GroupBuilder.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.DelphiBridge.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.HighLevelTypes.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.IntegrationContract.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.IntegrationContract.Matching.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.IntegrationContract.SyncEngine.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.IntegrationContract.Utility.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.LegacyBridge.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.NHibernate.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.PickLists.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.Plugins.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.Security.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.Services.Import.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.Services.Integration.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.Services.PotentialMatch.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.Services.SpeedSearch.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.System.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.Utility.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.Web.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.SalesLogix.WebUserOptions.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.Scheduling.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Sage.Utilities.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Saleslogix.EmailProcessing.SupportClasses.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Saleslogix.Geocode.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Saleslogix.Import.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Saleslogix.Integration.BOE.Common.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Saleslogix.Integration.BOE.Jobs.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\SalesLogix.Integration.Marketo.API.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\SalesLogix.Integration.Marketo.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Saleslogix.Reporting.API.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Saleslogix.Reporting.API.dll.config" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Saleslogix.Reporting.API.tlb" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Saleslogix.Reporting.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Saleslogix.Reporting.Jobs.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Saleslogix.SData.Client.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\Saleslogix.SDataSyncJob.dll" timeStamp="2017-12-06T15:40:00.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\de\" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\fr\" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\it\" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\ru\" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\zh-CN\" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\bin\zh-TW\" />
+</exportedFiles>

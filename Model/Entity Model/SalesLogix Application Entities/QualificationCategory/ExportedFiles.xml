@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QualificationCategory\OnBeforeDelete.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QualificationCategory\OnBeforeInsert.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QualificationCategory\OnBeforeUpdate.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QualificationCategory\Qualification.filter.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QualificationCategory\QualificationCategory.QUALIFICATION_CATEGORY.entity.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QualificationCategory\ValidateQualification.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QualificationCategory\QuickForms\" />
+</exportedFiles>

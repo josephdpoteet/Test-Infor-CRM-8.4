@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\Utility\nls\Activity.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\Utility\nls\Dashboard.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\Utility\nls\Email.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\Utility\nls\ErrorHandler.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\Utility\nls\File.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\Utility\nls\IONWorkflowHelper.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\Utility\nls\Jobs.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\Utility\nls\PricingAndAvailability.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\Utility\nls\Sql.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\Utility\nls\Utility.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\Utility\nls\de\" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\Utility\nls\en\" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\Utility\nls\fr\" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\Utility\nls\it\" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\Utility\nls\ru\" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\Utility\nls\zh-cn\" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\Utility\nls\zh-tw\" />
+</exportedFiles>

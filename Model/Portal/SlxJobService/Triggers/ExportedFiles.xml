@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxJobService\Triggers\Delete Sync History Records.trigger.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Triggers\GeocodeEveryFourHoursIndefinitely.trigger.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Triggers\IONInboxJob.Every15Seconds.trigger.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Triggers\IONMessageCleanUpJob.Every10Minutes.trigger.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Triggers\IONOutboundJob.Every15Seconds.trigger.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Triggers\IONOutOfOrderRefCleanUpJob.Every1Hour.trigger.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Triggers\IONWorkflowJob.Every15Seconds.trigger.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Triggers\Period Creation Job.trigger.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Triggers\RefreshExchangeRatesJob.trigger.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Triggers\RolloverActivitiesEveryHourIndefinitely.trigger.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Triggers\Run every 5 minutes.trigger.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Triggers\SyncJob Every 10 minutes.trigger.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Triggers\UpdateRemainingDaysDailyIndefinitely.trigger.xml" timeStamp="2017-12-06T22:34:07.0000" />
+</exportedFiles>

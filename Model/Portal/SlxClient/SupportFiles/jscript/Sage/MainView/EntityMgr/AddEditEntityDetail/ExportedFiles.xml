@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\AddEditEntityDetail\_DetailsAddEditDialogBase.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\AddEditEntityDetail\AddEditFiltersDialog.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\AddEditEntityDetail\AddEditPropertiesDialog.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\AddEditEntityDetail\AddEditRelationshipsDialog.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\AddEditEntityDetail\ADDMDDetailsView.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\AddEditEntityDetail\AMDDetailsView.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\AddEditEntityDetail\DisplayName.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\AddEditEntityDetail\DistinctDetailsView.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\AddEditEntityDetail\EditRelationshipsDialog.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\AddEditEntityDetail\main.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\AddEditEntityDetail\RangeDetailsView.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\AddEditEntityDetail\UserLookupDetailsView.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\AddEditEntityDetail\nls\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\AddEditEntityDetail\templates\" />
+</exportedFiles>

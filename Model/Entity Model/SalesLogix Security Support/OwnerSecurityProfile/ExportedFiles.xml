@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerSecurityProfile\CreateDefaultProfileData.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerSecurityProfile\GetSecurityProfileByName.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerSecurityProfile\GetSecurityProfileData.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerSecurityProfile\OwnerSecurityProfile.SECPROFILE.entity.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Security Support\OwnerSecurityProfile\UpdateSecurityProfileData.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+</exportedFiles>

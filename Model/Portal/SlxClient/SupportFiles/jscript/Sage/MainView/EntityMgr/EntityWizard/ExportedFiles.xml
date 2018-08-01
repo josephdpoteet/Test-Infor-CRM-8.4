@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\EntityWizard\_EntityWizardDialogBase.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\EntityWizard\AddEditEntity.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\EntityWizard\EntityDetails.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\EntityWizard\EntityProperties.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\EntityWizard\EntityWizardController.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\EntityWizard\EntityWizardUtility.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\EntityWizard\main.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\EntityWizard\Relationship.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\EntityWizard\SelectEntityType.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\EntityWizard\Status.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\EntityWizard\nls\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\EntityMgr\EntityWizard\templates\" />
+</exportedFiles>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPShipmentAddress\ERPShipmentAddress.ERPSHIPMENTADDRESS.entity.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPShipmentAddress\FormatFullShipmentAddress.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPShipmentAddress\GetFullAddress.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPShipmentAddress\OnBeforeInsert.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPShipmentAddress\OnBeforeUpdate.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\ERPShipmentAddress\Sage.SnippetLibrary.CSharp.@.05678cd9-a6b1-4a2f-b5a3-a89792bc4f2d.codesnippet.cs" timeStamp="2017-12-06T22:33:50.0000" />
+</exportedFiles>

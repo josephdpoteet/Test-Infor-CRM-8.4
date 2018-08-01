@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\IONWorkflowDefinition\IONWorkflowDefinition.IONWORKFLOWDEFINITION.entity.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\IONWorkflowDefinition\RemoveWorkflow.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\IONWorkflowDefinition\RequestEntityProperties.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\IONWorkflowDefinition\QuickForms\" />
+</exportedFiles>

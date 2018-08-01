@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ReportMgr\templates\nls\HistoryDetailSummary.js" timeStamp="2017-12-06T22:20:46.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ReportMgr\templates\nls\HistoryListSummary.js" timeStamp="2017-12-06T22:20:46.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ReportMgr\templates\nls\ReportDetailSummary.js" timeStamp="2017-12-06T22:20:46.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ReportMgr\templates\nls\ReportsListSummary.js" timeStamp="2017-12-06T22:20:46.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ReportMgr\templates\nls\ScheduleDetailSummary.js" timeStamp="2017-12-06T22:20:46.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ReportMgr\templates\nls\SchedulesListSummary.js" timeStamp="2017-12-06T22:20:46.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ReportMgr\templates\nls\de\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ReportMgr\templates\nls\en\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ReportMgr\templates\nls\fr\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ReportMgr\templates\nls\it\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ReportMgr\templates\nls\ru\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ReportMgr\templates\nls\zh-cn\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ReportMgr\templates\nls\zh-tw\" />
+</exportedFiles>

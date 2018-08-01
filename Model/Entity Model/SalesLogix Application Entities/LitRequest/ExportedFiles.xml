@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequest\Account.filter.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequest\CompleteLitRequest.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequest\Contact.filter.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequest\ContactCanReceiveLiterature.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequest\CreateActivity.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequest\Description.filter.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequest\FulfillLitRequest.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequest\LitRequest.LITREQUEST.entity.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequest\Priority.filter.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequest\RejectLitRequest.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequest\RejectLitRequests.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequest\Requester.filter.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequest\SendVia.filter.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequest\Status.filter.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequest\ZipCode.filter.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LitRequest\QuickForms\" />
+</exportedFiles>

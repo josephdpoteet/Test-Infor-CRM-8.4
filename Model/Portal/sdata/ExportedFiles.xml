@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\sdata\ContextMenuItems.order.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\sdata\MenuItems.order.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\sdata\Modules.order.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\sdata\NavigationGroups.order.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\sdata\sdata.cabsvc.ptl.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\sdata\sdata.cabsvc.ptl.xml.de.resx" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\sdata\sdata.cabsvc.ptl.xml.fr.resx" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\sdata\sdata.cabsvc.ptl.xml.it.resx" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\sdata\sdata.cabsvc.ptl.xml.resx" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\sdata\sdata.cabsvc.ptl.xml.ru.resx" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\sdata\sdata.cabsvc.ptl.xml.zh-CN.resx" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\sdata\sdata.cabsvc.ptl.xml.zh-TW.resx" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\sdata\Services.order.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\sdata\SupportFiles.def.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\sdata\Deployment\" />
+  <exportedFile url="\Portal\sdata\Modules\" />
+  <exportedFile url="\Portal\sdata\Services\" />
+  <exportedFile url="\Portal\sdata\SupportFiles\" />
+</exportedFiles>

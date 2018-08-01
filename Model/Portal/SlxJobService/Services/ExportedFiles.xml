@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxJobService\Services\Sage.Platform.Application.Caching.CacheInitializationService.service.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Services\Sage.Platform.Data.IDataService.service.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Services\Sage.Platform.Data.IHibernateConfigurationService.service.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Services\Sage.Platform.Orm.Services.IDynamicEntityConfigurationService.service.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Services\Sage.Platform.Orm.Services.IDynamicEntityDescriptorConfigurationService.service.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Services\Sage.Platform.Orm.Services.IDynamicEntityNHibernateConfigurationService.service.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Services\Sage.Platform.Projects.Interfaces.IProjectContextService.service.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Services\Sage.Platform.SData.IAppIdMappingService.service.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Services\Sage.Platform.Security.IUserService.service.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Services\Sage.SalesLogix.Activity.ICalendarSecurityService.service.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Services\Sage.SalesLogix.IUserOptionsService.service.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Services\Sage.SalesLogix.Scheduling.VirtualFileSystemInitializationService.service.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Services\Sage.SalesLogix.Security.IUserManagementService.service.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Services\Sage.SalesLogix.Services.Import.IImportService.service.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Services\Sage.SalesLogix.Services.ISystemOptionsService.service.xml" timeStamp="2017-12-06T22:34:07.0000" />
+  <exportedFile url="\Portal\SlxJobService\Services\Sage.SalesLogix.Services.PotentialMatch.IDeDupService.service.xml" timeStamp="2017-12-06T22:34:07.0000" />
+</exportedFiles>

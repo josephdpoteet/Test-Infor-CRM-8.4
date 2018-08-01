@@ -1,0 +1,23 @@
+define("Sage/MainView/ActivityMgr/nls/it/ActivityListPanelConfig", {
+    "colNameComplete": "Completa",
+    "colNameAttachment": "Allegato",
+    "colNameRecurring": "Ricorrente",
+    "colNameAlarm": "Allarme",
+    "colNameType": "Tipo di attività",
+    "colNameStartDate": "Data di inizio",
+    "colNameDuration": "Durata",
+    "colNameContact": "Nome",
+    "colNameLead": "Lead",
+    "colNameAccount": "Azienda/società",
+    "colNameCompany": "Società",
+    "colNameRegarding": "In relazione a",
+    "colNamePriority": "Priorità",
+    "colNameUserId": "Coordinatore",
+    "colNameTimeless": "Senza limiti di tempo",
+    "colNameTypeName": "Tipo",
+    "colNameContactName": "Nome",
+    "SnoozeAlarm": "Posponi allarme",
+    "DismissAlarm": "Ignora allarme",
+    "colNameUnConfirmStatus": "Non confermato",
+    "colNameAssociationCount": "Numero partecipanti"
+});

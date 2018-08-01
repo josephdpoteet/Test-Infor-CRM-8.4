@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\Account.filter.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\AccountManager.filter.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\CancelManualWorkflowForQuote.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\CancelWorkflowForQuotes.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\CanPromoteQuote.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\CommissionAverage.filter.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\ConvertQuoteToOrder.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\CopyQuote.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\DiscountAverage.filter.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\FormatFullQuoteAddress.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\GetQuoteAlternateDocumentId.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\GrandTotal.filter.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\InitiateManualWorkflow.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\IsClosed.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\IsContractIntegrationEnabled.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\LockPricingForQuoteItems.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\OnAccountChanged.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\OnAfterDelete.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\OnBeforeDelete.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\OnBeforeErpStatusChanged.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\OnBeforeInsert.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\OnBeforeUpdate.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\OnCreate.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\OnOpportunityChanged.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\PriceQuoteHeader.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\Quote.QUOTE.entity.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\QuoteCount.filter.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\ReAssignLineNumbers.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\RePriceLineItems.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\RePriceQuote.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\RequestPricingAvailability.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\SetExchangeRate.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\SetQuoteBillingAddress.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\SetQuoteShippingAddress.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\SetTaxTotals.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\Status.filter.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\SumGrandTotal.filter.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\UnLockPricingForQuoteItems.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\UpdateLineitemWithWareHouse.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\ValidateOrderTotal.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\ValidatePriceItems.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Quote\QuickForms\" />
+</exportedFiles>

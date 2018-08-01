@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\CountryCodeMapping\Country.filter.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\CountryCodeMapping\CountryCode.filter.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\CountryCodeMapping\CountryCodeMapping.COUNTRYCODEMAPPING.entity.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\CountryCodeMapping\GetAddressEntityProperties.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\CountryCodeMapping\OnBeforeInsert.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\CountryCodeMapping\OnBeforeUpdate.method.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Contract Sync Entities\CountryCodeMapping\QuickForms\" />
+</exportedFiles>

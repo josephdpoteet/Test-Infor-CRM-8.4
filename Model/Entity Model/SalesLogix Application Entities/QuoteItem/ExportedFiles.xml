@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QuoteItem\CalcPriceFromProgramPrice.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QuoteItem\CalculateCalcPrice.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QuoteItem\CalculateDiscount.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QuoteItem\CalculateExtendedPrice.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QuoteItem\CalculatePriceChange.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QuoteItem\CalculateUnitOfMeasureChange.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QuoteItem\ConfigProductItem.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QuoteItem\DocCalculateCalcPrice.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QuoteItem\GetProductInfo.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QuoteItem\OnAfterDelete.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QuoteItem\OnAfterInsert.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QuoteItem\OnAfterUpdate.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QuoteItem\OnBeforeDelete.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QuoteItem\OnBeforeInsert.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QuoteItem\OnBeforeUpdate.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QuoteItem\QuoteItem.QUOTEITEM.entity.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QuoteItem\RequestItemPriceService.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QuoteItem\Sage.SnippetLibrary.CSharp.@.1eada72e-da33-4b97-8f28-f8d81bdb4ba5.codesnippet.cs" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\QuoteItem\QuickForms\" />
+</exportedFiles>

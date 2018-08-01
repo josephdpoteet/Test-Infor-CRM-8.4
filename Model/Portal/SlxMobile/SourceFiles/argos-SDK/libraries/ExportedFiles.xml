@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\canvas2image.js" timeStamp="2017-12-06T22:32:08.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\Chart.min.js" timeStamp="2017-12-06T22:32:08.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\Simplate.js" timeStamp="2017-12-06T22:32:08.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\babel\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\datejs\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\deep-diff\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\font-awesome-4.4.0\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\icrm\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\jasmine\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\jasmine-2.0.0\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\l20n\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\less\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\moment\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\PouchDB\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\rx\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\sdata\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\snap\" />
+</exportedFiles>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Period\QuickForms\EditPeriods.btnOK_OnClick.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Period\QuickForms\EditPeriods.main.quickform.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Period\QuickForms\EditPeriods.main.quickform.xml.resx" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Period\QuickForms\InsertPeriod.OnLoad1.method.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Period\QuickForms\PeriodDetail.main.quickform.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Period\QuickForms\PeriodDetail.main.quickform.xml.resx" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Period\QuickForms\PeriodExchangeRate.main.quickform.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Period\QuickForms\PeriodExchangeRate.main.quickform.xml.resx" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Period\QuickForms\Periods.main.quickform.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Period\QuickForms\Periods.main.quickform.xml.resx" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Period\QuickForms\SetupComplete.main.quickform.xml" timeStamp="2017-12-06T22:33:51.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\Period\QuickForms\SetupComplete.main.quickform.xml.resx" timeStamp="2017-12-06T22:33:51.0000" />
+</exportedFiles>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\ActivityAccount.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\ActivityAlarm.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\ActivityAttachment.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\ActivityConfirmStatus.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\ActivityDuration.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\ActivityLeader.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\ActivityName.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\ActivityNameType.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\ActivityRecurring.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\ActivityType.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\Boolean.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\CheckBox.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\Currency.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\DataType.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\DateTime.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\Email.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\EmailControl.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\HistoryType.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\Lookup.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\LookupControl.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\Numeric.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\Owner.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\OwnerType.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\Phone.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\PickList.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\RadioButton.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\SlxEdit.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\SlxLink.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\SlxUser.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\UserType.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\UI\Controls\GridParts\Columns\nls\" />
+</exportedFiles>

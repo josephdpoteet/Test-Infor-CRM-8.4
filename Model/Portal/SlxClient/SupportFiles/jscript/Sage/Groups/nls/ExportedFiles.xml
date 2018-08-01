@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\Groups\nls\GroupLookup.js" timeStamp="2017-12-06T22:20:44.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\Groups\nls\GroupManager.js" timeStamp="2017-12-06T22:20:44.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\Groups\nls\GroupNavigator.js" timeStamp="2017-12-06T22:20:44.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\Groups\nls\de\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\Groups\nls\en\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\Groups\nls\fr\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\Groups\nls\it\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\Groups\nls\ru\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\Groups\nls\zh-cn\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\Groups\nls\zh-tw\" />
+</exportedFiles>

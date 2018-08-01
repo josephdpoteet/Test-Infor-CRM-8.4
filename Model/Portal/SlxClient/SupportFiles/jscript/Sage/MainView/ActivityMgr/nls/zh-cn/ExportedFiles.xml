@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\nls\zh-cn\ActivityCalendar.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\nls\zh-cn\ActivityEditor.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\nls\zh-cn\ActivityEditorAttendeesTab.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\nls\zh-cn\ActivityGroupContextService.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\nls\zh-cn\ActivityListPanelConfig.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\nls\zh-cn\AlarmListPanelConfig.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\nls\zh-cn\AllOpenActivityListPanelConfig.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\nls\zh-cn\BaseListPanelConfig.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\nls\zh-cn\ConfirmListPanelConfig.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\nls\zh-cn\EditEventEditor.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\nls\zh-cn\EventListPanelConfig.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\nls\zh-cn\FilterConfigurationProvider.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\nls\zh-cn\HistoryEditor.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\nls\zh-cn\HistoryEditorAttendeesTab.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\nls\zh-cn\LitRequestListPanelConfig.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\nls\zh-cn\OccurrenceOrSeriesQueryDlg.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\nls\zh-cn\PastDueListPanelConfig.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\nls\zh-cn\QuickCompleteEditor.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\nls\zh-cn\RecurringEditor.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\nls\zh-cn\SnoozeOptions.js" timeStamp="2017-12-06T22:20:45.0000" />
+</exportedFiles>

@@ -1,0 +1,41 @@
+define("Sage/QuickForms/Design/Editors/nls/it/NumericAdvancedPropertyEditor", {
+    "titleText": "Avanzato",
+    "appearanceText": "Aspetto",
+    "behaviorText": "Comportamento",
+    "controlInfoText": "Info di controllo",
+    "dataText": "Dati",
+    "controlIdText": "ID controllo:",
+    "controlIdTooltipText": "Identificatore per questo controllo.",
+    "controlLabelPlacementText": "Posizione etichetta:",
+    "controlLabelPlacementTooltipText": "Posizione etichetta in relazione al controllo.",
+    "controlTypeText": "Tipo di controllo.",
+    "controlTypeTooltipText": "Tipo di controllo Saleslogix.",
+    "decimalDigitsText": "Cifre decimali:",
+    "decimalDigitsTooltipText": "Il numero di cifre decimali da visualizzare dopo e consentire l'immissione dei dati.",
+    "defaultDataBindingText": "Associazioni dati:",
+    "defaultDataBindingTooltipText": "Campo nel database utilizzato da questo controllo.",
+    "enabledText": "Abilitato:",
+    "enabledTooltipText": "Consente all'utente di interagire con questo controllo.",
+    "formatTypeText": "Tipo formato:",
+    "formatTypeTooltipText": "Tipo di formato da utilizzare durante la conversione di un numero in stringa.",
+    "maxLengthText": "Lunghezza massima:",
+    "maxLengthTooltipText": "Numero massimo di caratteri che l'utente può inserire.",
+    "requiredText": "Obbligatorio:",
+    "requiredTooltipText": "Richiede un valore durante il salvataggio di dati.",
+    "strictText": "Rigorosa:",
+    "strictTooltipText": "Blocco che visualizza il numero con gli zeri finali come necessario.",
+    "visibleText": "Visibile:",
+    "visibleTooltipText": "Mostra o nasconde questo controllo nel modulo.",
+    "numberFormatText": {
+        "Number": "Numero",
+        "Percent": "Percentuale",
+        "Decimal": "Decimale",
+        "Scientific": "Scientifico"
+    },
+    "labelPlacementText": {
+        "left": "Sinistra",
+        "right": "Destra",
+        "top": "Alto",
+        "none": "Nessuno"
+    }
+});

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\_Module.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\AccountAssociationModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\AccountModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\BillToAccountModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\BillToModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\ContactAssociationModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\ContactModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\HelpModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\InvoiceLineModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\InvoiceModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\OpportunityModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\PayFromModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\ProductModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\QuoteLineModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\QuoteModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\QuotePersonModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\ReceivableLineModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\ReceivableModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\ReturnLineModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\ReturnModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\SalesOrderItemModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\SalesOrderModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\ShipmentLineModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\ShipmentModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\ShipToAccountModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\ShipToModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+</exportedFiles>

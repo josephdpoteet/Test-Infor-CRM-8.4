@@ -1,0 +1,14 @@
+8/1/2018 9:51:27 PM
+INFO  2018-08-01 14:51:25,473 - Installing bundle...
+INFO  2018-08-01 14:51:25,504 - Performing pre-install.
+INFO  2018-08-01 14:51:25,504 - Installing context item: SlxClient (\Portal\SlxClient\SlxClient.cabapp.ptl.xml)
+INFO  2018-08-01 14:51:25,754 - Successfully installed SlxClient (\Portal\SlxClient\SlxClient.cabapp.ptl.xml)
+INFO  2018-08-01 14:51:25,754 - Saving context item: SlxClient (\Portal\SlxClient\SlxClient.cabapp.ptl.xml)
+INFO  2018-08-01 14:51:25,754 - Successfully saved SlxClient (\Portal\SlxClient\SlxClient.cabapp.ptl.xml)
+INFO  2018-08-01 14:51:25,754 - Configuring installed items.
+INFO  2018-08-01 14:51:25,769 - Configuring SlxClient...
+INFO  2018-08-01 14:51:25,769 - Performing pre-commit to target project.
+INFO  2018-08-01 14:51:26,035 - Committing items to target project...
+INFO  2018-08-01 14:51:26,535 - Committing transactions...
+INFO  2018-08-01 14:51:27,332 - Copying bundle manifest to project.
+INFO  2018-08-01 14:51:30,707 - Install complete.

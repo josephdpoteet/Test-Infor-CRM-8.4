@@ -1,0 +1,41 @@
+define("Sage/QuickForms/Design/Editors/nls/ru/NumericAdvancedPropertyEditor", {
+    "titleText": "Дополнительно",
+    "appearanceText": "Внешний вид",
+    "behaviorText": "Поведение",
+    "controlInfoText": "Информация об элементе управления",
+    "dataText": "Данные",
+    "controlIdText": "ИД элемента управления:",
+    "controlIdTooltipText": "Идентификатор для этого элемента управления.",
+    "controlLabelPlacementText": "Расположение метки:",
+    "controlLabelPlacementTooltipText": "Позиция метки по отношению к элементу управления.",
+    "controlTypeText": "Тип элемента управления:",
+    "controlTypeTooltipText": "Тип управляющего элемента Saleslogix.",
+    "decimalDigitsText": "Количество десятичных цифр:",
+    "decimalDigitsTooltipText": "Количество цифр после запятой для отображения и ввода данных.",
+    "defaultDataBindingText": "Привязка данных:",
+    "defaultDataBindingTooltipText": "Поле (поля) в базе данных, используемое этим элементом управления.",
+    "enabledText": "Активировано:",
+    "enabledTooltipText": "Позволяет пользователю взаимодействовать с этим элементом управления.",
+    "formatTypeText": "Тип формата:",
+    "formatTypeTooltipText": "Тип формата для использования при преобразовании числа в строку.",
+    "maxLengthText": "Макс. длина:",
+    "maxLengthTooltipText": "Максимальное количество символов, которое может ввести пользователь",
+    "requiredText": "Требуется:",
+    "requiredTooltipText": "Требуется значение при сохранении данных.",
+    "strictText": "Строгая:",
+    "strictTooltipText": "Отображать числа с замыкающими нулями по мере необходимости.",
+    "visibleText": "Видимый:",
+    "visibleTooltipText": "Показать или скрыть этот элемент управления в форме.",
+    "numberFormatText": {
+        "Number": "Число",
+        "Percent": "Процент",
+        "Decimal": "Десятичное",
+        "Scientific": "Научный"
+    },
+    "labelPlacementText": {
+        "left": "По левому краю",
+        "right": "По правому краю",
+        "top": "Верхнее",
+        "none": "Нет"
+    }
+});

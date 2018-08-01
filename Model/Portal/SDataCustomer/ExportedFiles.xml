@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SDataCustomer\Modules.order.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Portal\SDataCustomer\SDataCustomer.cabsvc.ptl.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Portal\SDataCustomer\SDataCustomer.cabsvc.ptl.xml.de.resx" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Portal\SDataCustomer\SDataCustomer.cabsvc.ptl.xml.fr.resx" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Portal\SDataCustomer\SDataCustomer.cabsvc.ptl.xml.it.resx" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Portal\SDataCustomer\SDataCustomer.cabsvc.ptl.xml.resx" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Portal\SDataCustomer\SDataCustomer.cabsvc.ptl.xml.ru.resx" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Portal\SDataCustomer\SDataCustomer.cabsvc.ptl.xml.zh-CN.resx" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Portal\SDataCustomer\SDataCustomer.cabsvc.ptl.xml.zh-TW.resx" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Portal\SDataCustomer\Services.order.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Portal\SDataCustomer\SupportFiles.def.xml" timeStamp="2017-12-06T22:33:52.0000" />
+  <exportedFile url="\Portal\SDataCustomer\Deployment\" />
+  <exportedFile url="\Portal\SDataCustomer\Modules\" />
+  <exportedFile url="\Portal\SDataCustomer\Services\" />
+  <exportedFile url="\Portal\SDataCustomer\SupportFiles\" />
+</exportedFiles>

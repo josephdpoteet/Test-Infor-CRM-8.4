@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\ION System Entities\ION System Entities.T.package.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\ION System Entities\SYSBODOutOfOrderRef\" />
+  <exportedFile url="\Entity Model\ION System Entities\SYSBOEOutboundTxn\" />
+  <exportedFile url="\Entity Model\ION System Entities\SYSInboxStatus\" />
+</exportedFiles>

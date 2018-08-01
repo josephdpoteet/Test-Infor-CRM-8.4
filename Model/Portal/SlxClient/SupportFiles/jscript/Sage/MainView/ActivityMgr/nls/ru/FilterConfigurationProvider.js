@@ -1,0 +1,1 @@
+define("Sage/MainView/ActivityMgr/nls/ru/FilterConfigurationProvider", {});

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\ActivityList.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\ActivityScheduler.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\AttachmentList.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\Boolean.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\BulkUpdateWidget.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\CalendarUsersListPane.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\ConditionManager.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\Dialogs.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\EditableGrid.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\EditCalendarUsers.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\GridView.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\GroupsTitlePaneConfigProvider.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\JobSchedulingWidget.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\ListPanel.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\Login.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\NotesHistoryList.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\OwnerType.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\SDataFeed.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\SDataLookup.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\SearchConditionWidget.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\SearchMenuItem.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\SLXPreviewGrid.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\SpeedSearch.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\SummaryContainer.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\TimelessActivitiesPane.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\TimeZoneItem.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\TitleContentPane.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\TransferBoxWidget.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\UserType.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\WebFeedWidget.js" timeStamp="2017-12-06T22:20:48.0000" />
+  <exportedFile url="\Portal\SLXCustomerPortal\SupportFiles\jscript\Sage\UI\nls\zh-tw\WebSiteWidget.js" timeStamp="2017-12-06T22:20:48.0000" />
+</exportedFiles>

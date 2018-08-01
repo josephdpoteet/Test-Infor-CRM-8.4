@@ -1,0 +1,1 @@
+define("Sage/UI/Controls/nls/en/LogOffButton", { logOffText: 'Sign Off' });

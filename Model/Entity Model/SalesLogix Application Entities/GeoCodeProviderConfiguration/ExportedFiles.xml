@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\GeoCodeProviderConfiguration\GeoCodeProviderConfiguration.GEOCODEPROVIDERCONFIGURATION.entity.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\GeoCodeProviderConfiguration\OnBeforeInsert.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\GeoCodeProviderConfiguration\OnBeforeUpdate.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\GeoCodeProviderConfiguration\ValidateGeocodeProviderConfiguration.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+</exportedFiles>

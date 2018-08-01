@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxClient\ChildPages\SYSBOEOutboundTxn\Modules.order.xml" timeStamp="2017-12-06T22:33:57.0000" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\SYSBOEOutboundTxn\SmartParts.order.xml" timeStamp="2017-12-06T22:33:57.0000" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\SYSBOEOutboundTxn\SYSBOEOutboundTxn.page.xml" timeStamp="2017-12-06T22:33:57.0000" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\SYSBOEOutboundTxn\SYSBOEOutboundTxn.page.xml.de.resx" timeStamp="2017-12-06T22:33:57.0000" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\SYSBOEOutboundTxn\SYSBOEOutboundTxn.page.xml.fr.resx" timeStamp="2017-12-06T22:33:57.0000" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\SYSBOEOutboundTxn\SYSBOEOutboundTxn.page.xml.it.resx" timeStamp="2017-12-06T22:33:57.0000" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\SYSBOEOutboundTxn\SYSBOEOutboundTxn.page.xml.resx" timeStamp="2017-12-06T22:33:57.0000" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\SYSBOEOutboundTxn\SYSBOEOutboundTxn.page.xml.ru.resx" timeStamp="2017-12-06T22:33:57.0000" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\SYSBOEOutboundTxn\SYSBOEOutboundTxn.page.xml.zh-CN.resx" timeStamp="2017-12-06T22:33:57.0000" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\SYSBOEOutboundTxn\SYSBOEOutboundTxn.page.xml.zh-TW.resx" timeStamp="2017-12-06T22:33:57.0000" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\SYSBOEOutboundTxn\Modules\" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\SYSBOEOutboundTxn\SmartParts\" />
+</exportedFiles>

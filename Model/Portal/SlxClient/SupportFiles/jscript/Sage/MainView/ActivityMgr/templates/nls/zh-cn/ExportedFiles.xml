@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\templates\nls\zh-cn\AllOpenDetailSummary.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\templates\nls\zh-cn\AllOpenListSummary.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\templates\nls\zh-cn\ConfirmationDetailSummary.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\templates\nls\zh-cn\ConfirmationListSummary.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\templates\nls\zh-cn\EventSummary.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\templates\nls\zh-cn\LitRequestSummary.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\templates\nls\zh-cn\UserActivityDetailSummary.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\ActivityMgr\templates\nls\zh-cn\UserActivityListSummary.js" timeStamp="2017-12-06T22:20:45.0000" />
+</exportedFiles>

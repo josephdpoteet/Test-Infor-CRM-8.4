@@ -1,0 +1,9 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\JobMgr\templates\nls\zh-cn\ExecutionDetailSummary.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\JobMgr\templates\nls\zh-cn\ExecutionsListSummary.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\JobMgr\templates\nls\zh-cn\JobDefinitionDetailSummary.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\JobMgr\templates\nls\zh-cn\JobDefinitionsListSummary.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\JobMgr\templates\nls\zh-cn\ScheduleDetailSummary.js" timeStamp="2017-12-06T22:20:45.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\jscript\Sage\MainView\JobMgr\templates\nls\zh-cn\SchedulesListSummary.js" timeStamp="2017-12-06T22:20:45.0000" />
+</exportedFiles>

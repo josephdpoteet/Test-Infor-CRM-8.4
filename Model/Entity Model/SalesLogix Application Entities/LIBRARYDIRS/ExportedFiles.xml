@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LIBRARYDIRS\LibraryDirs.LIBRARYDIRS.entity.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LIBRARYDIRS\OnBeforeDelete.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LIBRARYDIRS\OnBeforeInsert.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\LIBRARYDIRS\OnBeforeUpdate.method.xml" timeStamp="2017-12-06T22:33:50.0000" />
+</exportedFiles>

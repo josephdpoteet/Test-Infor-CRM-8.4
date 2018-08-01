@@ -1,0 +1,6 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\AccountAccountingEntity\AccountAccountingEntity.ACCOUNTACCOUNTINGENTITY.entity.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\AccountAccountingEntity\OnAfterUpdate.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\AccountAccountingEntity\OnBeforeInsert.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+</exportedFiles>

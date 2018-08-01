@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxClient\SupportFiles\App_Code\OAuth\AuthorizationServiceViewControllerBase.cs" timeStamp="2017-12-06T22:34:04.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\App_Code\OAuth\OAuth1AuthorizationServiceViewController.cs" timeStamp="2017-12-06T22:34:04.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\App_Code\OAuth\OAuth2AuthorizationServiceViewController.cs" timeStamp="2017-12-06T22:34:04.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\App_Code\OAuth\OAuthBase.cs" timeStamp="2017-12-06T22:34:04.0000" />
+</exportedFiles>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxClient\ChildPages\User\Modules.order.xml" timeStamp="2017-12-06T22:33:58.0000" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\User\SmartParts.order.xml" timeStamp="2017-12-06T22:33:58.0000" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\User\User.page.xml" timeStamp="2017-12-06T22:33:58.0000" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\User\User.page.xml.de.resx" timeStamp="2017-12-06T22:33:58.0000" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\User\User.page.xml.fr.resx" timeStamp="2017-12-06T22:33:58.0000" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\User\User.page.xml.it.resx" timeStamp="2017-12-06T22:33:58.0000" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\User\User.page.xml.resx" timeStamp="2017-12-06T22:33:58.0000" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\User\User.page.xml.ru.resx" timeStamp="2017-12-06T22:33:58.0000" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\User\User.page.xml.zh-CN.resx" timeStamp="2017-12-06T22:33:58.0000" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\User\User.page.xml.zh-TW.resx" timeStamp="2017-12-06T22:33:58.0000" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\User\Modules\" />
+  <exportedFile url="\Portal\SlxClient\ChildPages\User\SmartParts\" />
+</exportedFiles>

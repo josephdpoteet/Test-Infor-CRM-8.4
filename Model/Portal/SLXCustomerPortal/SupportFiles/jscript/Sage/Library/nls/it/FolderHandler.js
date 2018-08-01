@@ -1,0 +1,20 @@
+define("Sage/Library/nls/it/FolderHandler", {
+    "AccessError": "Non si dispone delle impostazioni di sicurezza del ruolo necessarie per eseguire questa azione.",
+    "AddFolderError": "Si è verificato un errore imprevisto durante il tentativo di aggiungere una cartella alla raccolta.",
+    "Cancel": "Annulla",
+    "Confirm": "Conferma",
+    "DeleteFolderCnfmFmt": "Eliminare la cartella \"${0}\" e tutto il relativo contenuto?",
+    "DeleteFolderError": "Si è verificato un errore imprevisto durante il tentativo di eliminare una cartella dalla raccolta.",
+    "DontDeleteRoot": "Non eliminare la cartella principale.",
+    "DontEditRoot": "Modificare il nome della cartella principale.",
+    "EnterFolderName": "Inserire il nome della nuova cartella:",
+    "EnterNewFolderName": "Inserire il nuovo nome di questa cartella.",
+    "FolderUpdateConflictError": "La cartella è stata aggiornata da un altro utente. Aggiornare la visualizzazione e riprovare.",
+    "InvalidFolderName": "Un nome di cartella non può contenere i seguenti caratteri: \\ / : * ? \" < > |",
+    "NewFolder": "Nuova cartella",
+    "No": "No",
+    "OK": "OK",
+    "PleaseSelectFolder": "Selezionare una cartella.",
+    "RenameFolderError": "Si è verificato un errore imprevisto durante il tentativo di rinominare una cartella della raccolta.",
+    "Yes": "Sì"
+});

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxClient\Modules\Sage.Platform.QuickForms.WebFormGen.Web.QuickFormManagementModule.module.xml" timeStamp="2017-12-06T22:34:03.0000" />
+  <exportedFile url="\Portal\SlxClient\Modules\Sage.Platform.WebPortal.ServiceHostsModule.module.xml" timeStamp="2017-12-06T22:34:03.0000" />
+  <exportedFile url="\Portal\SlxClient\Modules\Sage.SalesLogix.Client.ImportHistory.Modules.ImportHistoryModule.module.xml" timeStamp="2017-12-06T22:34:03.0000" />
+  <exportedFile url="\Portal\SlxClient\Modules\Sage.SalesLogix.Client.IntegrationContract.Modules.IntegrationModule.module.xml" timeStamp="2017-12-06T22:34:03.0000" />
+  <exportedFile url="\Portal\SlxClient\Modules\Sage.SalesLogix.Web.Modules.BOEIntegrationModule.module.xml" timeStamp="2017-12-06T22:34:03.0000" />
+  <exportedFile url="\Portal\SlxClient\Modules\Sage.SalesLogix.Web.Modules.GlobalDialogModule.module.xml" timeStamp="2017-12-06T22:34:03.0000" />
+  <exportedFile url="\Portal\SlxClient\Modules\Sage.SalesLogix.Web.Modules.OfficeProfileModule.module.xml" timeStamp="2017-12-06T22:34:03.0000" />
+  <exportedFile url="\Portal\SlxClient\Modules\Sage.SalesLogix.Web.Modules.WebViewerModule.module.xml" timeStamp="2017-12-06T22:34:03.0000" />
+  <exportedFile url="\Portal\SlxClient\Modules\Sage.SalesLogix.Web.ProjectsModule.module.xml" timeStamp="2017-12-06T22:34:03.0000" />
+  <exportedFile url="\Portal\SlxClient\Modules\Saleslogix.Integration.LinkedIn.SalesNavigator.IntegrationModule.module.xml" timeStamp="2017-12-06T22:34:03.0000" />
+  <exportedFile url="\Portal\SlxClient\Modules\SalesLogix.Integration.Marketo.Modules.MarketoIntegrationVisibilityModule.module.xml" timeStamp="2017-12-06T22:34:03.0000" />
+</exportedFiles>

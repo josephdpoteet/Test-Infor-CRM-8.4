@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\_DashboardWidgetBase.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Aggregate.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\ApplicationModule.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\DashboardWidget.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\DateRangeWidget.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\PicklistService.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\PricingAvailabilityService.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Promote.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Utility.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Modules\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Views\" />
+</exportedFiles>

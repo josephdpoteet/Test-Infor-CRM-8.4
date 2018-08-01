@@ -1,0 +1,33 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\AddEditBOEPAService.main.quickform.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\AddEditBOEPAService.main.quickform.xml.de.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\AddEditBOEPAService.main.quickform.xml.fr.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\AddEditBOEPAService.main.quickform.xml.it.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\AddEditBOEPAService.main.quickform.xml.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\AddEditBOEPAService.main.quickform.xml.ru.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\AddEditBOEPAService.main.quickform.xml.zh-CN.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\AddEditBOEPAService.main.quickform.xml.zh-TW.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\BOEPARequestTemplate.main.quickform.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\BOEPARequestTemplate.main.quickform.xml.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\BOEPAServiceBOEPAMapping.main.quickform.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\BOEPAServiceBOEPAMapping.main.quickform.xml.de.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\BOEPAServiceBOEPAMapping.main.quickform.xml.fr.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\BOEPAServiceBOEPAMapping.main.quickform.xml.it.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\BOEPAServiceBOEPAMapping.main.quickform.xml.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\BOEPAServiceBOEPAMapping.main.quickform.xml.ru.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\BOEPAServiceBOEPAMapping.main.quickform.xml.zh-CN.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\BOEPAServiceBOEPAMapping.main.quickform.xml.zh-TW.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\BOEPAServiceCustomPAMapping.main.quickform.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\BOEPAServiceCustomPAMapping.main.quickform.xml.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\BOEPAServiceDetail.btnClone_OnClick.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\BOEPAServiceDetail.main.quickform.xml" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\BOEPAServiceDetail.main.quickform.xml.de.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\BOEPAServiceDetail.main.quickform.xml.fr.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\BOEPAServiceDetail.main.quickform.xml.it.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\BOEPAServiceDetail.main.quickform.xml.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\BOEPAServiceDetail.main.quickform.xml.ru.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\BOEPAServiceDetail.main.quickform.xml.zh-CN.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\BOEPAServiceDetail.main.quickform.xml.zh-TW.resx" timeStamp="2017-12-06T22:33:49.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Application Entities\BOEPAService\QuickForms\BOEPAServiceDetail.tbrButtonValidate_OnClick.method.xml" timeStamp="2017-12-06T22:33:49.0000" />
+</exportedFiles>

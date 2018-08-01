@@ -1,0 +1,23 @@
+define("Sage/MainView/ActivityMgr/nls/ru/ActivityListPanelConfig", {
+    "colNameComplete": "Завершить",
+    "colNameAttachment": "Вложение",
+    "colNameRecurring": "Повторение",
+    "colNameAlarm": "Оповещение",
+    "colNameType": "Тип действия",
+    "colNameStartDate": "Дата начала",
+    "colNameDuration": "Длительность",
+    "colNameContact": "Имя",
+    "colNameLead": "Заинтересованное лицо",
+    "colNameAccount": "Клиент/компания",
+    "colNameCompany": "Компания",
+    "colNameRegarding": "Тема",
+    "colNamePriority": "Приоритет",
+    "colNameUserId": "Организатор",
+    "colNameTimeless": "Без указания времени",
+    "colNameTypeName": "Тип",
+    "colNameContactName": "Имя",
+    "SnoozeAlarm": "Отложить оповещение",
+    "DismissAlarm": "Отклонить оповещение",
+    "colNameUnConfirmStatus": "Не подтверждено",
+    "colNameAssociationCount": "Количество участников"
+});

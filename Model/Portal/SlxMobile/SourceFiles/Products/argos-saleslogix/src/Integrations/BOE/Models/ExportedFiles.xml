@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\Names.js" timeStamp="2017-12-06T22:31:47.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\BackOffice\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\BackOfficeAccountingEntity\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\Carrier\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\ErpAccountPerson\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\ErpBillTo\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\ErpBillToAccount\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\ErpContactAssociation\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\ErpInvoice\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\ErpInvoiceItem\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\ErpInvoicePerson\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\ErpReceivable\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\ErpReceivableItem\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\ErpSalesOrderPerson\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\ErpShipment\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\ErpShipmentItem\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\ErpShipTo\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\ErpShipToAccount\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\Location\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\OperatingCompany\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\Product\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\Quote\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\QuoteItem\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\QuotePerson\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\Return\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\SalesOrder\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\SalesOrderItem\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\SyncResult\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\Products\argos-saleslogix\src\Integrations\BOE\Models\UnitOfMeasure\" />
+</exportedFiles>

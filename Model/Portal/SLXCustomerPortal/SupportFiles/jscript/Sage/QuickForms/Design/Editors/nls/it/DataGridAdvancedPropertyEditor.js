@@ -1,0 +1,23 @@
+define("Sage/QuickForms/Design/Editors/nls/it/DataGridAdvancedPropertyEditor", {
+    "titleText": "Avanzato",
+    "appearanceText": "Aspetto",
+    "behaviorText": "Comportamento",
+    "controlInfoText": "Info di controllo",
+    "dataText": "Dati",
+    "controlIdText": "ID controllo:",
+    "controlIdTooltipText": "Identificatore per questo controllo.",
+    "controlTypeText": "Tipo di controllo.",
+    "controlTypeTooltipText": "Tipo di controllo Saleslogix.",
+    "dataSourceText": "Origine dati:",
+    "dataSourceTooltipText": "Origine dei dati per questo controllo, come un altro controllo o un'entità.",
+    "emptyTableRowText": "Testo riga di una tabella vuota:",
+    "emptyTableRowTooltipText": "Testo da visualizzare se la griglia non mostra nessun dato.",
+    "expandableRowsText": "Righe espandibili:",
+    "expandableRowsTooltipText": "Permette all'utente di espandere le righe della griglia per mostrare più testo.",
+    "renderVerticalText": "Rendere verticale:",
+    "renderVerticalTooltipText": "Visualizza righe della griglia come colonne.",
+    "showSortIconText": "Mostra icona di ordinamento:",
+    "showSortIconTooltipText": "Mostra icona di ordinamento su colonne che sono ordinabili.",
+    "visibleText": "Visibile:",
+    "visibleTooltipText": "Mostra o nasconde questo controllo nel modulo."
+});
