@@ -306,4 +306,7 @@
   <data name="txtPropensityScore.Caption" xml:space="preserve">
     <value>Purchase Likelihood Score:</value>
   </data>
+  <data name="txtSource.Caption" xml:space="preserve">
+    <value>Source</value>
+  </data>
 </root>

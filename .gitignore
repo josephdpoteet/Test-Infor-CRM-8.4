@@ -35,3 +35,11 @@ obj/
 # Force include SupportFiles
 !Model/Portal/*/SupportFiles/[Bb]in/
 !Model/Portal/PortalTemplates/*/SupportFiles/[Bb]in
+/Model/deployment/sites/SlxClient/SmartParts/Contact/App_LocalResources/ContactDetails.ascx.de.resx
+/Model/deployment/sites/SlxClient/SmartParts/Contact/App_LocalResources/ContactDetails.ascx.fr.resx
+/Model/deployment/sites/SlxClient/SmartParts/Contact/App_LocalResources/ContactDetails.ascx.it.resx
+/Model/deployment/sites/SlxClient/SmartParts/Contact/App_LocalResources/ContactDetails.ascx.resx
+/Model/deployment/sites/SlxClient/SmartParts/Contact/App_LocalResources/ContactDetails.ascx.ru.resx
+/Model/deployment/sites/SlxClient/SmartParts/Contact/App_LocalResources/ContactDetails.ascx.zh-CN.resx
+/Model/deployment/sites/SlxClient/SmartParts/Contact/App_LocalResources/ContactDetails.ascx.zh-TW.resx
+/Model/deployment/sites/SlxClient/SmartParts/Contact/ContactDetails.ascx
