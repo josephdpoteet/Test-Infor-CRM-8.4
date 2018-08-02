@@ -1,16 +1,37 @@
-# Files created from merge tools
-*.BACKUP.*
-*.BASE.*
-*.LOCAL.*
-*.REMOTE.*
-*.orig
 
+# Files created from DiffMerge
+*.BACKUP*
+*.BASE*
+*.LOCAL*
+*.REMOTE*
+*.BACKUP.*.xml
+*.BASE.*.xml
+*.LOCAL.*.xml
+*.REMOTE.*.xml
+*.orig
 
 # Model files that are auto-generated
 [Mm]odel[Ii]ndex.xml
 
-
 # Standard deployment files
-[Mm]odel/[Dd]eployment
+*/deployment/webroot/common/[Ss]mart[Pp]arts/**/*
+*/deployment/webroot/common/[Ss]mart[Pp]arts/**/**/*
+*/deployment/webroot/common/[Ss]ummary[Cc]onfig[Dd]ata/*
+*/deployment/webroot/common/bin/*
+*/deployment/webroot/common/*
+*/deployment/common/bin/[Ss]age.[Ee]ntity.[Ii]nterfaces.dll
+*/deployment/common/bin/[Ss]age.[Ff]orm.[Ii]nterfaces.dll
 
+# Visual Studio files
+*.suo
+*.cache
+*.obj
+*.pdb
+*.user
+obj/
+[Dd]ebug*/
+[Rr]elease*/
 
+# Force include SupportFiles
+!Model/Portal/*/SupportFiles/[Bb]in/
+!Model/Portal/PortalTemplates/*/SupportFiles/[Bb]in
