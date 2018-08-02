@@ -118,103 +118,103 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="cmdSaveContactDetails.Caption" xml:space="preserve">
-    <value>Save</value>
+    <value>Speichern</value>
   </data>
   <data name="cmdSaveContactDetails.ToolTip" xml:space="preserve">
-    <value>Save</value>
+    <value>Speichern</value>
   </data>
   <data name="cmdDelete.Caption" xml:space="preserve">
-    <value>Delete</value>
+    <value>Löschen</value>
   </data>
   <data name="cmdDelete.ToolTip" xml:space="preserve">
-    <value>Delete</value>
+    <value>Löschen</value>
   </data>
   <data name="cmdDelete.ActionConfirmationMessage" xml:space="preserve">
-    <value>You are about to permanently delete this record.</value>
+    <value>Sie sind im Begriff, diesen Datensatz endgültig zu löschen.</value>
   </data>
   <data name="cmdMoveContact.Caption" xml:space="preserve">
-    <value>Move Contact</value>
+    <value>Kontakt verschieben</value>
   </data>
   <data name="cmdMoveContact.ToolTip" xml:space="preserve">
-    <value>Move</value>
+    <value>Verschieben</value>
   </data>
   <data name="txtAssistant.Caption" xml:space="preserve">
-    <value>Asst:</value>
+    <value>Assistent:</value>
   </data>
   <data name="txtSalutation.Caption" xml:space="preserve">
-    <value>Dear:</value>
+    <value>Anrede</value>
   </data>
   <data name="chkIsPrimary.Caption" xml:space="preserve">
-    <value>Primary Contact for Acct.</value>
+    <value>Primärer Kontakt für Firma</value>
   </data>
   <data name="chkIsServiceAuthorized.Caption" xml:space="preserve">
-    <value>Authorized Service Contact</value>
+    <value>Autorisierter Servicekontakt</value>
   </data>
   <data name="chkDoNotSolicit.Caption" xml:space="preserve">
-    <value>Do not Solicit</value>
+    <value>Keine Informationen erwünscht</value>
   </data>
   <data name="chkDoNotEmail.Caption" xml:space="preserve">
-    <value>Do not Email</value>
+    <value>Keine E-Mails</value>
   </data>
   <data name="chkDoNotPhone.Caption" xml:space="preserve">
-    <value>Do not Call</value>
+    <value>Keine Anrufe</value>
   </data>
   <data name="chkDoNotMail.Caption" xml:space="preserve">
-    <value>Do not Mail</value>
+    <value>Keine Briefe</value>
   </data>
   <data name="chkDoNotFax.Caption" xml:space="preserve">
-    <value>Do not Fax</value>
+    <value>Keine Faxe</value>
   </data>
   <data name="cboPreferredContact.Caption" xml:space="preserve">
-    <value>Preferred  Contact:</value>
+    <value>Bevorzugter Kontakt:</value>
   </data>
   <data name="adrContactAddress.Caption" xml:space="preserve">
-    <value>Address:</value>
+    <value>Adresse:</value>
   </data>
   <data name="emlEmailAddress.Caption" xml:space="preserve">
-    <value>E-mail:</value>
+    <value>E-Mail:</value>
   </data>
   <data name="ownContactOwner.Caption" xml:space="preserve">
-    <value>Owner:</value>
+    <value>Zugriffsberechtigter:</value>
   </data>
   <data name="nmeContactName.Caption" xml:space="preserve">
     <value>Name:</value>
   </data>
   <data name="phnWorkPhone.Caption" xml:space="preserve">
-    <value>Work:</value>
+    <value>Geschäftlich:</value>
   </data>
   <data name="phnFax.Caption" xml:space="preserve">
     <value>Fax:</value>
   </data>
   <data name="phnMobilePhone.Caption" xml:space="preserve">
-    <value>Mobile:</value>
+    <value>Mobil:</value>
   </data>
   <data name="phnHomePhone.Caption" xml:space="preserve">
-    <value>Home:</value>
+    <value>Privat:</value>
   </data>
   <data name="phnOtherPhone.Caption" xml:space="preserve">
-    <value>Other:</value>
+    <value>Sonstige:</value>
   </data>
   <data name="pklTitle.Caption" xml:space="preserve">
-    <value>Title:</value>
+    <value>Titel:</value>
   </data>
   <data name="pklContactType.Caption" xml:space="preserve">
-    <value>Type:</value>
+    <value>Typ:</value>
   </data>
   <data name="pklContactStatus.Caption" xml:space="preserve">
     <value>Status:</value>
   </data>
   <data name="urlWebAddress.Caption" xml:space="preserve">
-    <value>Web URL:</value>
+    <value>Web-URL:</value>
   </data>
   <data name="usrAcctMgr.Caption" xml:space="preserve">
-    <value>Account Manager:</value>
+    <value>Account-Manager:</value>
   </data>
   <data name="cboPreferredContact_item4.Value" xml:space="preserve">
-    <value>Letter</value>
+    <value>Brief</value>
   </data>
   <data name="cboPreferredContact_item4.Text" xml:space="preserve">
-    <value>Letter</value>
+    <value>Brief</value>
   </data>
   <data name="cboPreferredContact_item3.Value" xml:space="preserve">
     <value>Fax</value>
@@ -223,90 +223,87 @@
     <value>Fax</value>
   </data>
   <data name="cboPreferredContact_item2.Value" xml:space="preserve">
-    <value>Phone</value>
+    <value>Telefon</value>
   </data>
   <data name="cboPreferredContact_item2.Text" xml:space="preserve">
-    <value>Phone</value>
+    <value>Telefon</value>
   </data>
   <data name="cboPreferredContact_item1.Value" xml:space="preserve">
-    <value>E-mail</value>
+    <value>E-Mail</value>
   </data>
   <data name="cboPreferredContact_item1.Text" xml:space="preserve">
-    <value>E-mail</value>
+    <value>E-Mail</value>
   </data>
   <data name="cboPreferredContact_item0.Value" xml:space="preserve">
-    <value>Unknown</value>
+    <value>Unbekannt</value>
   </data>
   <data name="cboPreferredContact_item0.Text" xml:space="preserve">
-    <value>Unknown</value>
+    <value>Unbekannt</value>
   </data>
   <data name="cmdCopyToClipboard.Caption" xml:space="preserve">
-    <value>Copy</value>
+    <value>Kopieren</value>
   </data>
   <data name="cmdCopyToClipboard.ToolTip" xml:space="preserve">
-    <value>Copy Contact Information to Clipboard</value>
+    <value>Kontaktinformationen in die Zwischenablage kopieren</value>
   </data>
   <data name="cmdReset.Caption" xml:space="preserve">
-    <value>Reset</value>
+    <value>Zurücksetzen</value>
   </data>
   <data name="cmdReset.ToolTip" xml:space="preserve">
-    <value>Reset</value>
+    <value>Zurücksetzen</value>
   </data>
   <data name="emlEmailAddress.ToolTip" xml:space="preserve">
     <value />
   </data>
   <data name="ownContactOwner.ButtonToolTip" xml:space="preserve">
-    <value>Find</value>
+    <value>Suchen</value>
   </data>
   <data name="usrAcctMgr.ButtonToolTip" xml:space="preserve">
-    <value>Find</value>
+    <value>Suchen</value>
   </data>
   <data name="emlEmailAddress.ButtonToolTip" xml:space="preserve">
-    <value>E-mail</value>
+    <value>E-Mail</value>
   </data>
   <data name="adrContactAddress.AddressToolTip" xml:space="preserve">
     <value>MapQuest</value>
   </data>
   <data name="adrContactAddress.ButtonToolTip" xml:space="preserve">
-    <value>Edit</value>
+    <value>Bearbeiten</value>
   </data>
   <data name="urlWebAddress.ButtonToolTip" xml:space="preserve">
     <value>WWW</value>
   </data>
   <data name="nmeContactName.ButtonToolTip" xml:space="preserve">
-    <value>Edit</value>
+    <value>Bearbeiten</value>
   </data>
   <data name="QFButton2.Caption" xml:space="preserve">
-    <value>Copy Contact</value>
+    <value>Kontakt kopieren</value>
   </data>
   <data name="cmdCopyContact.ToolTip" xml:space="preserve">
-    <value>Duplicate Contact</value>
+    <value>Doppelter Kontakt</value>
   </data>
   <data name="a358db35-34b4-4de7-9a36-0eaec33da264.DialogTitleOverride" xml:space="preserve">
-    <value>Duplicate Contact</value>
+    <value>Doppelter Kontakt</value>
   </data>
   <data name="ee3027fb-0e00-4c1d-8e7f-c6b48787afb4.DialogTitleOverride" xml:space="preserve">
-    <value>Move Contact</value>
+    <value>Kontakt verschieben</value>
   </data>
   <data name="btnMoveContactError" xml:space="preserve">
-    <value>The contact has been changed and must be saved before it can be moved to a new account.</value>
+    <value>Der Kontakt wurde geändert und muss gespeichert werden, bevor er in eine neue Firma verschoben werden kann.</value>
   </data>
   <data name="btnCopyContactError" xml:space="preserve">
-    <value>The contact has been changed and must be saved before it can be copied to a new account.</value>
+    <value>Der Kontakt wurde geändert und muss gespeichert werden, bevor er in eine neue Firma kopiert werden kann.</value>
   </data>
   <data name="lueAccountName.Caption" xml:space="preserve">
-    <value>Account:</value>
+    <value>Firma:</value>
   </data>
   <data name="txtPropensityScore.Text" xml:space="preserve">
     <value />
   </data>
   <data name="txtPropensityScore.ToolTip" xml:space="preserve">
-    <value>Propensity Score</value>
+    <value>Punktwert für Wahrscheinlichkeit</value>
   </data>
   <data name="txtPropensityScore.Caption" xml:space="preserve">
-    <value>Purchase Likelihood Score:</value>
-  </data>
-  <data name="txtInterest.Caption" xml:space="preserve">
-    <value>Interests</value>
+    <value>Punktwert für Kaufwahrscheinlichkeit:</value>
   </data>
 </root>
