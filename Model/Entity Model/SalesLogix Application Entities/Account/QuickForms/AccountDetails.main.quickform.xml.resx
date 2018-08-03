@@ -252,4 +252,7 @@
   <data name="btnAcctHierarchy.ToolTip" xml:space="preserve">
     <value>View Parent/Child Hierarchy</value>
   </data>
+  <data name="txtAKA.Caption" xml:space="preserve">
+    <value>AKA</value>
+  </data>
 </root>

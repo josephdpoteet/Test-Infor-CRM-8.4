@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<QuickForm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="576ae752-12aa-4d36-ba13-a8cca10c89c1" DefinitionType="Sage.Platform.QuickForms.QuickFormMainDetailViewDefinition, Sage.Platform.QuickForms" lastModifiedUtc="2017-09-20T15:08:24.6993515Z">
+<QuickForm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="576ae752-12aa-4d36-ba13-a8cca10c89c1" DefinitionType="Sage.Platform.QuickForms.QuickFormMainDetailViewDefinition, Sage.Platform.QuickForms" lastModifiedUtc="2018-08-03T16:27:19.4452183Z">
   <ActiveControl />
   <ImagePath />
   <LoadActions>
@@ -381,6 +381,7 @@ using (var session = new Sage.Platform.Orm.SessionScopeWrapper())
             <PropertyFormatString />
             <UseAsResult>true</UseAsResult>
             <ExcludeFromFilters>false</ExcludeFromFilters>
+            <PickListName />
             <IsSortable>false</IsSortable>
             <HideCondition />
           </LookupProperty>
@@ -392,6 +393,7 @@ using (var session = new Sage.Platform.Orm.SessionScopeWrapper())
             <PropertyFormatString />
             <UseAsResult>false</UseAsResult>
             <ExcludeFromFilters>false</ExcludeFromFilters>
+            <PickListName />
             <IsSortable>true</IsSortable>
             <HideCondition />
           </LookupProperty>
@@ -403,6 +405,7 @@ using (var session = new Sage.Platform.Orm.SessionScopeWrapper())
             <PropertyFormatString />
             <UseAsResult>false</UseAsResult>
             <ExcludeFromFilters>false</ExcludeFromFilters>
+            <PickListName />
             <IsSortable>true</IsSortable>
             <HideCondition />
           </LookupProperty>
@@ -414,6 +417,7 @@ using (var session = new Sage.Platform.Orm.SessionScopeWrapper())
             <PropertyFormatString />
             <UseAsResult>false</UseAsResult>
             <ExcludeFromFilters>false</ExcludeFromFilters>
+            <PickListName />
             <IsSortable>true</IsSortable>
             <HideCondition />
           </LookupProperty>
@@ -425,6 +429,7 @@ using (var session = new Sage.Platform.Orm.SessionScopeWrapper())
             <PropertyFormatString />
             <UseAsResult>false</UseAsResult>
             <ExcludeFromFilters>false</ExcludeFromFilters>
+            <PickListName />
             <IsSortable>true</IsSortable>
             <HideCondition />
           </LookupProperty>
@@ -436,6 +441,7 @@ using (var session = new Sage.Platform.Orm.SessionScopeWrapper())
             <PropertyFormatString />
             <UseAsResult>false</UseAsResult>
             <ExcludeFromFilters>false</ExcludeFromFilters>
+            <PickListName />
             <IsSortable>true</IsSortable>
             <HideCondition />
           </LookupProperty>
@@ -447,6 +453,7 @@ using (var session = new Sage.Platform.Orm.SessionScopeWrapper())
             <PropertyFormatString />
             <UseAsResult>false</UseAsResult>
             <ExcludeFromFilters>false</ExcludeFromFilters>
+            <PickListName />
             <IsSortable>true</IsSortable>
             <HideCondition />
           </LookupProperty>
@@ -458,6 +465,7 @@ using (var session = new Sage.Platform.Orm.SessionScopeWrapper())
             <PropertyFormatString />
             <UseAsResult>false</UseAsResult>
             <ExcludeFromFilters>false</ExcludeFromFilters>
+            <PickListName />
             <IsSortable>true</IsSortable>
             <HideCondition />
           </LookupProperty>
@@ -469,6 +477,7 @@ using (var session = new Sage.Platform.Orm.SessionScopeWrapper())
             <PropertyFormatString />
             <UseAsResult>false</UseAsResult>
             <ExcludeFromFilters>false</ExcludeFromFilters>
+            <PickListName />
             <IsSortable>true</IsSortable>
             <HideCondition />
           </LookupProperty>
@@ -976,6 +985,43 @@ if(account != null)
         <Lines>4</Lines>
         <OnChangeAction>
           <ResourceKey>BusinessDescription</ResourceKey>
+          <Action typeName="Sage.Platform.QuickForms.ActionItems.NoActionActionItem, Sage.Platform.QuickForms">
+            <NoActionActionItem>
+              <MethodName />
+            </NoActionActionItem>
+          </Action>
+          <IsDialogCloseAction>False</IsDialogCloseAction>
+          <RunOnEveryRePaint>False</RunOnEveryRePaint>
+          <DialogActionResult>NoResult</DialogActionResult>
+          <PerformsUpdate>False</PerformsUpdate>
+          <AppliedSecurity />
+          <RefreshData>False</RefreshData>
+        </OnChangeAction>
+        <Required>false</Required>
+      </QFTextBox>
+    </Control>
+    <Control typeName="Sage.Platform.QuickForms.Controls.QFTextBox, Sage.Platform.QuickForms">
+      <QFTextBox>
+        <Column>2</Column>
+        <Row>6</Row>
+        <HotKey>0</HotKey>
+        <TabIndex>0</TabIndex>
+        <ControlId>txtAKA</ControlId>
+        <DataBindings>
+          <QuickFormPropertyDataBindingDefinition>
+            <DataSourceID>MainEntity</DataSourceID>
+            <DataItemName>Aka</DataItemName>
+            <ControlItemName>Text</ControlItemName>
+            <FormatString />
+            <NullValueString />
+          </QuickFormPropertyDataBindingDefinition>
+        </DataBindings>
+        <ControlLabelPlacement>left</ControlLabelPlacement>
+        <ExtendedProperties />
+        <CaptionAlignment>left</CaptionAlignment>
+        <StyleScheme />
+        <OnChangeAction>
+          <ResourceKey>txtAKA</ResourceKey>
           <Action typeName="Sage.Platform.QuickForms.ActionItems.NoActionActionItem, Sage.Platform.QuickForms">
             <NoActionActionItem>
               <MethodName />

@@ -43,3 +43,11 @@ obj/
 /Model/deployment/sites/SlxClient/SmartParts/Contact/App_LocalResources/ContactDetails.ascx.zh-CN.resx
 /Model/deployment/sites/SlxClient/SmartParts/Contact/App_LocalResources/ContactDetails.ascx.zh-TW.resx
 /Model/deployment/sites/SlxClient/SmartParts/Contact/ContactDetails.ascx
+/Model/deployment/sites/SlxClient/SmartParts/Account/AccountDetails.ascx
+/Model/deployment/sites/SlxClient/SmartParts/Account/App_LocalResources/AccountDetails.ascx.de.resx
+/Model/deployment/sites/SlxClient/SmartParts/Account/App_LocalResources/AccountDetails.ascx.fr.resx
+/Model/deployment/sites/SlxClient/SmartParts/Account/App_LocalResources/AccountDetails.ascx.it.resx
+/Model/deployment/sites/SlxClient/SmartParts/Account/App_LocalResources/AccountDetails.ascx.resx
+/Model/deployment/sites/SlxClient/SmartParts/Account/App_LocalResources/AccountDetails.ascx.ru.resx
+/Model/deployment/sites/SlxClient/SmartParts/Account/App_LocalResources/AccountDetails.ascx.zh-CN.resx
+/Model/deployment/sites/SlxClient/SmartParts/Account/App_LocalResources/AccountDetails.ascx.zh-TW.resx
